@@ -18,6 +18,26 @@
     align-self: center;
     box-shadow:#0a8268 2px 5px 5px;
 }
+.logo{
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    align-self: center;
+    box-shadow:#0a8268 2px 5px 5px;
+}
+.fb{
+    background-color: #11bc8b;
+    color: blue;
+    
+}
+.insta{
+    background-color: #11bc8b;
+    color: aliceblue;
+}
+.linked{
+    background-color:#11bc8b;
+    color: blue;
+}
 body{
     margin: 0;
 }
